@@ -1,2 +1,2 @@
 # Jmeter-test-performance
-Repositório de teste de performance com Jmeter
+Repositório de teste de performance com Jmeter.
